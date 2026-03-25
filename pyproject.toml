@@ -9,7 +9,6 @@ keywords = ["disaster", "drone", "ai", "django", "emergency-response", "damage-a
 dependencies = [
     "django>=5.2",
     "gunicorn>=23.0",
-    "imantics>=0.1.12",
     "matplotlib>=3.10",
     "openai>=1.60",
     "opencv-python>=4.11",
